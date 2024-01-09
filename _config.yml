@@ -2,7 +2,7 @@
 title: BY Blog
 SEOTitle: ga0we1的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: ga0we1@qq.com
+email: ga0weIsmail@gmail.com
 description: "记录遇到的一些好玩有趣的技术和事情"
 keyword: "ga0we1 应急 开发 渗透 分析 样本 四流安全从业人员"
 url: "http://ga0we1.github.io"          # your host, for absolute URL
@@ -61,25 +61,26 @@ kramdown:
 # disqus_username: qiubaiying
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+# gitalk:
+#   enable: true    #是否开启Gitalk评论
+#   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
+#   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+#   repo: qiubaiying.github.io    #仓库名称
+#   owner: qiubaiying    #github用户名
+#   admin: qiubaiying
+#   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
 
 # Analytics settings
 # Baidu Analytics
-#ba_track_id: b50bf2b12b5338a1845e33832976fd68
+# ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 2a7919bc45b369300d90ea229e3a3c65
 
 # Google Analytics
-#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-#ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+# ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
